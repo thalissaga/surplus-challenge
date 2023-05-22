@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCDR004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42978a83-731b-405f-9d27-3bbce3e120f5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0de1564a-fff0-4d67-8d83-80f9db564272</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'10000'</defaultValue>
+      <description></description>
+      <id>0de1564a-fff0-4d67-8d83-80f9db564272</id>
+      <masked>false</masked>
+      <name>harga</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCDR002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>070c3af3-ffed-4514-9e82-7e2fc09c238f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>de0972a0-2a75-45df-8818-9aa5e0920d8e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'buahdansayur'</defaultValue>
+      <description></description>
+      <id>de0972a0-2a75-45df-8818-9aa5e0920d8e</id>
+      <masked>false</masked>
+      <name>kategori</name>
+   </variable>
+</TestCaseEntity>
